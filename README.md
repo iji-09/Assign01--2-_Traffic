@@ -108,7 +108,8 @@
 이 프로젝트는 **p5.js**를 사용하여 신호등을 시뮬레이션하는 웹 애플리케이션입니다.  
 사용자는 슬라이더를 이용해 **신호등의 점등 시간**을 조절하고, **아두이노와 시리얼 통신을 통해 실제 LED를 제어**할 수 있습니다.  
 
-![스크린샷 2025-03-16 111127](https://github.com/user-attachments/assets/d4c9653e-6fad-4c14-9882-1117934f585b)
+![image](https://github.com/user-attachments/assets/ac3604ad-cc82-47fb-8e7a-ebd12e151367)
+
 
 ---
 
