@@ -2,6 +2,7 @@
 
 ## 아두이노 동작 영상
 
+[![프로젝트 시연 영상](https://youtu.be/yyEh_2ObcgM?si=bYbr36QQNikJFEbj)
 
 
 ---
